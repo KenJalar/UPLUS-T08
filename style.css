@@ -566,7 +566,7 @@ section { padding: 5rem 0; overflow-x: hidden; }
     @keyframes scroll-values { 100% { transform: translateX(calc(-236px * 8)); } }
     .stat-number { font-size: 2.2rem; }
     .stat-label { font-size: 0.9rem; }
-    .objective-card { width: auto; padding: 2rem 1.5rem; margin: 0 0.5rem; }
+    .objective-card { width: 265px; padding: 2rem 1.5rem; margin: 0 0.5rem; }
     .objective-icon { font-size: 2.8rem; }
     .objective-title { font-size: 1.4rem; }
     .target-group-item { padding: 0.4rem 1.2rem; margin: 0 0.4rem; font-size: 1rem; }
@@ -588,3 +588,4 @@ section { padding: 5rem 0; overflow-x: hidden; }
 
 
 }
+
